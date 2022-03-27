@@ -1,0 +1,23 @@
+= Hello API Guide
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+
+curl command:
+include::{snippets}/hello/curl-request.adoc[]
+
+HTTP Request:
+include::{snippets}/hello/http-request.adoc[]
+
+HTTP Request Body:
+include::{snippets}/hello/request-body.adoc[]
+
+HTTP Response:
+include::{snippets}/hello/http-response.adoc[]
+
+HTTP Response Body:
+include::{snippets}/hello/response-body.adoc[]
+
+
+
+
